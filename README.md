@@ -22,7 +22,7 @@
 - **API Versioning**: Automatic detection and handling of API versions via URL, headers, or query parameters.
 - **Interactive API Explorer**: Built-in web interface for testing API endpoints.
 - **Middleware & Hooks**: Allow customization via middleware or event-driven hooks for request processing.
-- - **Service Discovery Integration**: Optional registration with service discovery tools like Consul or Eureka.
+- **Service Discovery Integration**: Optional registration with service discovery tools like Consul or Eureka.
 
 ## Contributing
 
